@@ -1,22 +1,17 @@
-.blue-color
-    {color:blue;}
+.black-color
+    {color:black;}
 body 
     {font-family:sans-serif;
     color:blue;
-    line-height:30px ;
+    line-height:50px ;
+   background-color:rgb(243,211,632);
                        }
-.left-side
-    {float:left;}
-.half-width
-    {width:50%;
-    float:right;}
-    .side-img
-    {width:50%;
-    padding-left:25%;
-    }
+
+
+    
     .primary-btn{
-    color:black;
-    background-color:white;
+    color:violet;
+    
     padding:13px 42px 13px 42px;
     border-radius:20px;
     text-decoration:none;
